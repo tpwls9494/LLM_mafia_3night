@@ -42,9 +42,6 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_api_key_here
 ```
 
-4. 구현 화면
-<img width="1440" alt="mafia_3night" src="https://github.com/user-attachments/assets/cff6100d-2611-46dc-96d6-cfd5aa802a80" />
-
 ## 🎲 사용 방법
 
 1. Streamlit 앱 실행
@@ -59,6 +56,9 @@ streamlit run app.py
 4. 생성된 대화를 분석하고 각 캐릭터의 역할 추측
 
 5. "정답 공개" 버튼을 클릭하여 결과 확인
+
+## 🖥️ 게임 화면
+<img width="1440" alt="mafia_3night" src="https://github.com/user-attachments/assets/cff6100d-2611-46dc-96d6-cfd5aa802a80" />
 
 ## 📜 게임 규칙
 
