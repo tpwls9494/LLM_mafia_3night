@@ -27,7 +27,7 @@ OpenAI GPT API와 Streamlit을 활용한 마피아 게임 역할 추측 시뮬�
 
 1. 리포지토리 클론
 ```bash
-git clone https://github.com/your-username/mafia-role-guessing-game.git
+git clone [https://github.com/your-username/mafia-role-guessing-game.git](https://github.com/tpwls9494/LLM_mafia_3night)
 cd mafia-role-guessing-game
 ```
 
