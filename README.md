@@ -1,4 +1,4 @@
-```markdown
+```
 # 마피아 역할 맞추기 게임
 
 OpenAI GPT API와 Streamlit을 활용한 마피아 게임 역할 추측 시뮬레이션입니다. 플레이어들의 대화를 분석하여 각 캐릭터의 역할을 맞추는 게임입니다.
@@ -27,12 +27,12 @@ OpenAI GPT API와 Streamlit을 활용한 마피아 게임 역할 추측 시뮬�
 
 1. 리포지토리 클론
 ```bash
-git clone [https://github.com/your-username/mafia-role-guessing-game.git](https://github.com/tpwls9494/LLM_mafia_3night)
-cd mafia-role-guessing-game
+git clone https://github.com/tpwls9494/LLM_mafia_3night.git
+cd LLM_mafia_3night
 ```
 
 2. 필요한 패키지 설치
-```bash
+```
 pip install -r requirements.txt
 ```
 
@@ -45,7 +45,7 @@ OPENAI_API_KEY=your_api_key_here
 ## 🎲 사용 방법
 
 1. Streamlit 앱 실행
-```bash
+```
 streamlit run app.py
 ```
 
@@ -86,8 +86,6 @@ streamlit run app.py
 이 프로젝트는 인공지능의 대화 생성 능력을 게임화하여 재미있는 방식으로 경험할 수 있도록 개발되었습니다. 마피아 게임의 심리전과 추리 요소를 AI 생성 대화로 재현하여, 플레이어가 대화 패턴을 분석하고 역할을 추측하는 과정에서 AI의 언어 모델링 능력을 경험할 수 있습니다.
 
 ## 📝 라이센스
-
+```
 MIT License
 ```
-
-이 README는 기본적인 틀을 제공합니다. 실제 GitHub 저장소에 맞게 프로젝트 URL, 스크린샷, 정확한 설치 요구사항 등을 조정하세요. 또한 `requirements.txt` 파일을 추가하여 필요한 패키지 목록(streamlit, openai, python-dotenv 등)을 명시하는 것이 좋습니다.
