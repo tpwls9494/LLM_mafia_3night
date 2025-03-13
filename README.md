@@ -2,9 +2,9 @@
 # 마피아 역할 맞추기 게임
 
 OpenAI GPT API와 Streamlit을 활용한 마피아 게임 역할 추측 시뮬레이션입니다. 플레이어들의 대화를 분석하여 각 캐릭터의 역할을 맞추는 게임입니다.
-```
-<img width="1440" alt="mafia_3night" src="https://github.com/user-attachments/assets/cff6100d-2611-46dc-96d6-cfd5aa802a80" />
-```
+
+
+
 ## 📋 목차
 - [기능 소개](#기능-소개)
 - [설치 방법](#설치-방법)
@@ -41,6 +41,9 @@ pip install -r requirements.txt
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
+
+4. 구현 화면
+<img width="1440" alt="mafia_3night" src="https://github.com/user-attachments/assets/cff6100d-2611-46dc-96d6-cfd5aa802a80" />
 
 ## 🎲 사용 방법
 
